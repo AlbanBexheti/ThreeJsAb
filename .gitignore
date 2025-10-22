@@ -1,0 +1,6 @@
+*.log
+*.tmp
+
+threejs-w2/node_modules
+threejs-w2/package-lock.json
+threejs-w2/package.json
